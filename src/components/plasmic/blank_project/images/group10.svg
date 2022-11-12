@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 58 58">
+  <path d="M29.022 0C13.005-.014.013 12.947 0 28.948c-.014 16.001 12.96 28.98 28.977 28.993C44.993 57.928 57.975 44.97 58 28.971 58 12.978 45.03.013 29.022 0zm-.044 53.12c-13.351 0-24.175-10.812-24.175-24.15 0-13.337 10.824-24.15 24.174-24.15 13.347.014 24.161 10.818 24.175 24.15 0 13.338-10.824 24.15-24.175 24.15z" fill="url(#-EUaJeFp_pa)"/>
+  <defs>
+    <linearGradient id="-EUaJeFp_pa" x1="31.9" y1="-9.12" x2="35.166" y2="93.522" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FD749B"/>
+      <stop offset="1" stop-color="#281AC8"/>
+    </linearGradient>
+  </defs>
+</svg>
